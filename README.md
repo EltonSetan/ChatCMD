@@ -17,7 +17,7 @@ ChatCMD is a simple command-line interface (CLI) application that enables users 
 
 1. Clone this repository:
 
-git clone https://github.com/your_github_username/ChatCMD.git
+git clone https://github.com/EltonSetan/ChatCMD
 
 
 
