@@ -1,6 +1,6 @@
 # ChatCMD
 
-ChatCMD is a simple command-line interface (CLI) application that enables users to interact with OpenAI's GPT-3.5 Turbo model directly from the terminal. It's designed as an alternative to the browser-based chat.openai.com interface, providing a lightweight and straightforward solution to communicate with the AI.
+ChatCMD is a simple command-line interface (CLI) application that enables users to interact with OpenAI's GPT-3.5 Turbo model or any other your API has access to, directly from the terminal. It's designed as an alternative to the browser-based chat.openai.com interface, providing a lightweight and straightforward solution to communicate with the AI.
 
 ## Features
 
